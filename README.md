@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I’m Sakib Ahsan Shanto 👋
 
-<!--
-**sakib-shanto/sakib-shanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student, reader, writer, and aspiring entrepreneur exploring ideas at the intersection of creativity and technology.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 Interested in reading, writing, and research
+* 💡 Curious about technology, AI, and digital media
+* 🚀 Building Thinklab Brainstation
+* 🌱 Learning by building projects
+
+Current Focus
+
+* Exploring GitHub and digital tools
+* Learning the basics of web development
+* Developing creative and research skills
+
+Connect With Me
+
+* LinkedIn⁠￼: https://bd.linkedin.com/in/sakibshanto
+* Blog⁠￼: https://sakibshanto.blogspot.com
+
+Learning, creating, and growing one project at a time.

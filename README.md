@@ -6,8 +6,8 @@ About Me
 
 * 📚 Interested in reading, writing, and research
 * 💡 Curious about technology, AI, and digital media
-* 🚀 Building Thinklab Brainstation
 * 🌱 Learning by building projects
+* 🚀 Building Thinklab Brainstation
 
 Current Focus
 
